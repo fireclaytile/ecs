@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f08b687b1ae0c6af5a0860c35e9d7585",
+    "content-hash": "4b520979b4fc5ef524499a3b82111799",
     "packages": [
         {
             "name": "symplify/easy-coding-standard",
@@ -72,5 +72,5 @@
         "php": "^7.2.5|^8.0.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
