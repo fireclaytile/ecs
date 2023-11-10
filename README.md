@@ -1,4 +1,4 @@
-# Easy Coding Standard config for Craft CMs
+# Easy Coding Standard config for Craft CMS
 
 This package provides [Easy Coding Standard](https://github.com/symplify/easy-coding-standard) configurations for Craft CMS plugins and projects.
 
@@ -18,7 +18,7 @@ composer config prefer-stable true
 ```
 
 ```sh
-composer require craftcms/ecs:dev-main --dev
+composer require fireclaytile/ecs:dev-main --dev
 ```
 
 Then add an `ecs.php` file to the root of your plugin or project:
