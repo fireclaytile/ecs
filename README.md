@@ -5,7 +5,6 @@ This package provides [Easy Coding Standard](https://github.com/symplify/easy-co
 In general, we follow the [PSR-12](https://www.php-fig.org/psr/psr-12/) coding style guide, with a couple alterations:
 
 - Multi-line function argument rules aren’t enforced. ([¶4.4](https://www.php-fig.org/psr/psr-12/#44-methods-and-functions))
-- Spaces after the `function` keyword aren’t enforced. ([¶7](https://www.php-fig.org/psr/psr-12/#7-closures))
 - Visibility is not enforced for constants, for Craft 3 projects.
 
 To install, run the following commands within your plugin or project:
